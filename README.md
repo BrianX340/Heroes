@@ -4,8 +4,7 @@
 
 <h2> Este repositorio contiene informacion sobre grandes genios de la matematica y computacion. </h2>
 
->- Lista
->>
+> **Lista:**
 >* Ada Lovelace
 >* Alan Turing
 >* Charles Babbage
