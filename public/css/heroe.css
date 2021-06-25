@@ -1,0 +1,27 @@
+
+
+body .container {
+    flex-direction: column;
+}
+
+body .container .info {
+    font-size: 25px;
+    width: 90%;
+    padding-top: 25px;
+}
+
+.fuente {
+    padding-top: 25px;
+}
+
+nav div {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+
+}
